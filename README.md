@@ -1,3 +1,3 @@
 # Juego con Python
 
-Udemy Course: "Crea tu propio juego con Python Course" by `Jose Ojeda Rojas`.
+Udemy Course: "Crea tu propio juego con Python" by `Jose Ojeda Rojas`.
